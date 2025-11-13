@@ -1,0 +1,87 @@
+{
+  "CUST001": [
+    {
+      "timestamp": "2024-11-01",
+      "action": "login",
+      "status": "success"
+    },
+    {
+      "timestamp": "2024-11-05",
+      "action": "purchase",
+      "plan": "Pro",
+      "amount": "$19.99"
+    },
+    {
+      "timestamp": "2024-11-10",
+      "action": "support_ticket",
+      "issue": "billing_question"
+    },
+    {
+      "timestamp": "2025-11-13 16:30:34",
+      "action": "support_ticket",
+      "query": "Unable to access account."
+    },
+    {
+      "timestamp": "2025-11-13 16:45:28",
+      "action": "support_ticket",
+      "query": "Unable to access account."
+    }
+  ],
+  "CUST002": [
+    {
+      "timestamp": "2024-10-15",
+      "action": "login",
+      "status": "success"
+    },
+    {
+      "timestamp": "2024-10-20",
+      "action": "purchase",
+      "plan": "Basic",
+      "amount": "$9.99"
+    },
+    {
+      "timestamp": "2024-11-08",
+      "action": "feature_request",
+      "feature": "mobile_app"
+    },
+    {
+      "timestamp": "2025-11-13 16:40:11",
+      "action": "support_ticket",
+      "query": "Unable to access account."
+    },
+    {
+      "timestamp": "2025-11-13 16:43:27",
+      "action": "support_ticket",
+      "query": "Unable to access account."
+    }
+  ],
+  "CUST003": [
+    {
+      "timestamp": "2024-11-12",
+      "action": "login",
+      "status": "failed"
+    },
+    {
+      "timestamp": "2024-11-13",
+      "action": "support_ticket",
+      "issue": "password_reset"
+    }
+  ],
+  "CUST004": [
+    {
+      "timestamp": "2025-11-13 16:46:01",
+      "action": "support_ticket",
+      "query": "Unable to access account."
+    },
+    {
+      "timestamp": "2025-11-13 16:50:00",
+      "action": "support_ticket",
+      "query": "Not able to access my account."
+    },
+    {
+      "timestamp": "2025-11-13 16:52:31",
+      "action": "support_ticket",
+      "query": "Invoice not provided"
+    }
+  ]
+}
