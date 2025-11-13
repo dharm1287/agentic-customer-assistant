@@ -1,6 +1,6 @@
 # Multi-Agent AI Customer Support System
 
-SILQFi bot is a production-grade, multi-agent customer support system built with LangGraph, LangChain, and OpenAI. It demonstrates advanced orchestration of specialized AI agents for technical, billing, general, and safety queries, with tool calling, RAG (Retrieval-Augmented Generation), and robust safety guardrails.
+SILQFi bot is a production-grade, multi-agent customer support system built with LangGraph, LangChain, and OpenAI. It demonstrates advanced orchestration of specialized AI agents for technical, billing, and general queries, with tool calling, RAG (Retrieval-Augmented Generation), and robust safety guardrails.
 
 ## Features
 - **Multi-Agent Workflow:** Router agent classifies queries and routes to specialized agents.
